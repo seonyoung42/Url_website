@@ -9,5 +9,5 @@
 
 ## Contact Info
 
-+ developer : 
++ ✉️ : sunwarrant@gmail.com
 
